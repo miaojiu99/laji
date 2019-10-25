@@ -9,7 +9,7 @@
         <van-image round width="1.4rem" height="1.4rem" src="https://img.yzcdn.cn/vant/cat.jpeg" />
         <div class="my-name">
           <div>
-            <span>测试机哦</span>
+            <span>张浩然</span>
             <van-icon name="comm iconfont icon-renzheng" />
           </div>
           <div class="my-nicheng">昵称：ABC</div>
